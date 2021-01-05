@@ -1,6 +1,13 @@
+github.com/gosimple/slug v1.1.1/go.mod h1:ER78kgg1Mv0NQGlXiDe57DpCyfbNywXXZ9mIorhxAf0=
 github.com/gosimple/slug v1.4.2 h1:jDmprx3q/9Lfk4FkGZtvzDQ9Cj9eAmsjzeQGp24PeiQ=
 github.com/gosimple/slug v1.4.2/go.mod h1:ER78kgg1Mv0NQGlXiDe57DpCyfbNywXXZ9mIorhxAf0=
+github.com/gosimple/slug v1.9.0 h1:r5vDcYrFz9BmfIAMC829un9hq7hKM4cHUrsv36LbEqs=
+github.com/gosimple/slug v1.9.0/go.mod h1:AMZ+sOVe65uByN3kgEyf9WEBKBCSS+dJjMX9x4vDJbg=
 github.com/grafana-tools/sdk v0.0.0-20190105141347-81363f3bb393 h1:o79q5bNnchgPgOTyDJyiBogvWfynlBY4N0iPk6jTIW0=
 github.com/grafana-tools/sdk v0.0.0-20190105141347-81363f3bb393/go.mod h1:jmhwUBkHTF8XmjhmNSeWi6t0YDWzgTjXt5Wy2BF3uqQ=
+github.com/grafana-tools/sdk v0.0.0-20201123153837-5fb28a7aa2ef h1:pBtpdcXGO5VLXzmOvlnqfxofkw1Ce8CyoV6mAQUJmm4=
+github.com/grafana-tools/sdk v0.0.0-20201123153837-5fb28a7aa2ef/go.mod h1:aqBqJVTJmj0MTX9cP8wuReJPte6HyttMDzSS2u8nJwo=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be h1:ta7tUOvsPHVHGom5hKW5VXNc2xZIkfCKP8iaqOyYtUQ=
 github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be/go.mod h1:MIDFMn7db1kT65GmV94GzpX9Qdi7N/pQlwb+AN8wh+Q=
